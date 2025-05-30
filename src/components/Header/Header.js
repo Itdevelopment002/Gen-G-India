@@ -24,18 +24,18 @@ const Header = () => {
                         </button>
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                             <ul class="navbar-nav">
-                                <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li> 
-                                <li class="nav-item dropdown dropdown-with-icon-style02 active"><a href="javascript:void(0)" class="nav-link">About Us</a>
+                                <li class="nav-item"><a href="/home" class="nav-link">Home</a></li> 
+                                <li class="nav-item dropdown dropdown-with-icon-style02 active"><a href="#" class="nav-link">About Us</a>
                                     <i class="dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1"> 
-                                        <li class="active"><a href="Introduction.php">Introduction</a></li>
-                                        <li><a href="vision-mission.php">Mission, Vision &amp; Objective</a></li>
-                                        <li><a href="message.php">Message</a></li>
-                                        <li><a href="infrastructure.php">Infrastructure</a></li>
-                                        <li><a href="other.php">Other</a></li>
+                                        <li class="active"><a href="/introduction">Introduction</a></li>
+                                        <li><a href="/mission-vission">Mission, Vision &amp; Objective</a></li>
+                                        <li><a href="/message">Message</a></li>
+                                        <li><a href="/infrastructure">Infrastructure</a></li>
+                                        <li><a href="/other">Other</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="javascript:void(0)" class="nav-link">What we offer</a>
+                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="#" class="nav-link">What we offer</a>
                                     <i class="dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1"> 
                                         <li><a href="business-research.php">Business Research</a></li>
@@ -49,7 +49,7 @@ const Header = () => {
                                         <li><a href="conduct-training.php">Conduct Training Programs for several sectors </a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="javascript:void(0)" class="nav-link">Gen G India</a>
+                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="#" class="nav-link">Gen G India</a>
                                     <i class="dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1"> 
                                         <li><a href="inner.php">Chapter</a></li>
@@ -59,14 +59,14 @@ const Header = () => {
                                         <li><a href="inner.php">Patron Members</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="javascript:void(0)" class="nav-link">Request</a>
+                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="#" class="nav-link">Request</a>
                                     <i class="dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1"> 
                                         <li><a href="inner.php">Request for incubation</a></li>
                                         <li><a href="inner.php">Request for Member </a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="javascript:void(0)" class="nav-link">Gallery</a>
+                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="#" class="nav-link">Gallery</a>
                                     <i class="dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1"> 
                                         <li><a href="image_gallery.php">Image Gallery</a></li>
@@ -74,7 +74,7 @@ const Header = () => {
                                         <li><a href="media_gallery.php">Media Gallery</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="javascript:void(0)" class="nav-link">More</a>
+                                <li class="nav-item dropdown dropdown-with-icon-style02"><a href="#" class="nav-link">More</a>
                                     <i class="dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1"> 
                                         <li><a href="faq.php">FAQs</a></li>
